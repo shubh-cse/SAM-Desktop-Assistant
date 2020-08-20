@@ -16,3 +16,6 @@
 10. Can plot sine or cosine graph.
 
 ## Glimpse of SAM
+
+![samss1](https://user-images.githubusercontent.com/68144553/90756973-a370c700-e2fa-11ea-9dd4-c9f65323eee8.PNG)
+![samss2](https://user-images.githubusercontent.com/68144553/90756980-a53a8a80-e2fa-11ea-8ef9-68bf02003353.PNG)
